@@ -731,15 +731,10 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/lib/libsdm-disp-apis.so:system/lib/libsdm-disp-apis.so \
     vendor/motorola/montana/proprietary/lib/libuiblur.so:system/lib/libuiblur.so \
     vendor/motorola/montana/proprietary/lib/libzxingcpp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libzxingcpp.so \
-    vendor/motorola/montana/proprietary/lib64/libdrm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrm.so \
     vendor/motorola/montana/proprietary/lib64/liblocationservice_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblocationservice_jni.so \
     vendor/motorola/montana/proprietary/lib64/libperipheral_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libperipheral_client.so \
     vendor/motorola/montana/proprietary/lib64/libsdm-disp-apis.so:system/lib64/libsdm-disp-apis.so \
     vendor/motorola/montana/proprietary/lib64/libxt_native.so:system/lib64/libxt_native.so \
-    vendor/motorola/montana/proprietary/lib64/vendor.lineage.livedisplay@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.lineage.livedisplay@2.0.so \
-    vendor/motorola/montana/proprietary/lib64/vendor.lineage.trust@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.lineage.trust@1.0.so \
-    vendor/motorola/montana/proprietary/lib64/vendor.nxp.nxpese@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.nxp.nxpese@1.0.so \
-    vendor/motorola/montana/proprietary/lib64/vendor.nxp.nxpnfc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.nxp.nxpnfc@1.0.so \
     vendor/motorola/montana/proprietary/lib64/vendor.qti.imsrtpservice@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.imsrtpservice@1.0.so \
     vendor/motorola/montana/proprietary/vendor/bin/ATFWD-daemon:$(TARGET_COPY_OUT_VENDOR)/bin/ATFWD-daemon \
     vendor/motorola/montana/proprietary/vendor/bin/adspd:$(TARGET_COPY_OUT_VENDOR)/bin/adspd \
